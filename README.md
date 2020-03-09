@@ -1,7 +1,6 @@
-Code for MERN tutorial.
+mern-exercise-tracker:
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
-
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+M - MongoDb -> A document-based open source database
+E - ExpressJs -> A Web Application framework for NodeJs
+R - ReactJs -> A Javascript front-end library for building user interfaces
+N - NodeJs ->Javascript Run time environment that executes javascript code outside of the browser (such as server)
